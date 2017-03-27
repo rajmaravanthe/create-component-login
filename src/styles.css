@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+input, button {
+    width: 200px !important;
+    margin: 5px;
+}
